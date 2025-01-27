@@ -3,7 +3,7 @@ Hi there! 👋 I'm Pavana Paradesi, a passionate **DevOps Engineer** with over 5
 
 - 👀 I’m interested in Cloud and DevOps
 - 🌱 I’m currently learning Gitops tools and Observability
-- 💞️ I’m looking to collaborate on Open source projects
+- 💞️ I’m looking to collaborate on Open source projects and job opportunities
 - 📫 How to reach me: pavana.p0215@gmail.com
 
 ## 🚀 My Tech Toolbox  
@@ -38,7 +38,8 @@ Hi there! 👋 I'm Pavana Paradesi, a passionate **DevOps Engineer** with over 5
 - 🖥️ **Tech Enthusiast**: I love learning about new tools and technologies that make workflows smarter and faster.  
 - 🌍 **Globetrotter**: I enjoy exploring new cultures and places in my free time and I'm a fan of science fiction and fantasy novels
 - ☕ **Tea Lover**: My best ideas usually come with a cup of tea by my side!  
-- 🧩 **Problem Solver**: Whether it's debugging code or solving puzzles, I love cracking challenges.  
+- 🧩 **Problem Solver**: Whether it's debugging code or solving puzzles, I love cracking challenges.
+- **Languages Spoken**: English, Hindi
 
 ---
 
