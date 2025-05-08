@@ -20,7 +20,9 @@ Hi there! 👋 I'm Pavana Paradesi, a passionate **DevOps Engineer** with over 5
 ---
 
 ## 🛠️ Work Experience  
-🔹 **Latest Company**: Moog Inc.  
+🔹 **Latest Company**: Tata Consultancy Services (TCS)
+
+🔹 **Previous Company**: Moog Inc.  
 - Digitized legacy manufacturing processes by automating workflows.  
 - Built and managed CI/CD pipelines using GitHub Actions, Jenkins, and Argo CD.  
 - Deployed scalable microservices on EKS Kubernetes clusters using Helm and K8S manifests.  
